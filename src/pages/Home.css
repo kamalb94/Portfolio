@@ -1,0 +1,39 @@
+.home{
+    height: 100vh;
+    font-family: 'Poppins';
+}
+.navBar{
+    background-image: linear-gradient(to right, #533995, #1a0b3e);
+   
+    height: 60px;
+    padding: 20px 60px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    width: 100vw;
+}
+.logo{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.nav_btns{
+    display: flex;
+    gap: 50px;
+}
+.nav_btns > a{
+    text-decoration: none;
+    color: #fff;
+}
+.hero{
+    display: flex;
+    width: 100%;
+    padding: 50px;
+}
+/* .hero_image{
+    margin-top: 40px;
+} */

@@ -1,5 +1,16 @@
 .App {
-  text-align: center;
+  height: 100vh;
+  background-image: linear-gradient(to right, #533995, #1a0b3e);
+}
+.nav_bar{
+  height: 90px;
+
+}
+.body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
 }
 
 .App-logo {
